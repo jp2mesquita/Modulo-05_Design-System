@@ -1,0 +1,2 @@
+import{A as t}from"./index-75cb70c3.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/jp2mesquita.png",alt:"João Paulo Mesquita"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-9050edb5.js.map
